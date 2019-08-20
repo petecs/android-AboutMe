@@ -1,5 +1,12 @@
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">First Last</string>
+    <string name="name">Peter Akala</string>
     <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Peter.
+        \n\nI am a programmer and computer scientist who loves everything about programming.
+        \n\nThe different programming languages I know include Python, C, C++, C#, Java, Swift, and several others.
+        \n\nProgramming is actually a fun and relaxing activity for me, even when I run into frustrating bugs!
+        \n\nWhen I am not programming I also enjoy playing the guitar and working out.
+        \n\nThanks for checking out my app!\n\n</string>
 </resources>
