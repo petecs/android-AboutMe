@@ -4,7 +4,7 @@
 
 Android app that uses a LinearLayout with a nested ScrollView to display a mini-bio and optimized with data binding.
 
-## User Stores
+## Features
 
 The following functionality is complete:
 
